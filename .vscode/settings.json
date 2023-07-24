@@ -1,7 +1,6 @@
 {
     "files.exclude": {
         ".github/": true,
-        "_*": true,
         ".jekyll-cache/":true,
         ".tweet-cache/":true
     },
